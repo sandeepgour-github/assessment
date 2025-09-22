@@ -19,7 +19,7 @@ mvn clean package
 
 Run the application:
 
-java -jar target/bfh-qualifier-0.0.1-SNAPSHOT.jar
+java -jar target/bfh-qualifier-1.0.0-SNAPSHOT.jar
 
 
 The app will print webhook URL and token.
